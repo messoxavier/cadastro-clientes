@@ -24,16 +24,10 @@
                 <label for="telefone" class="block font-medium">Telefone</label>
                 <input type="text" id="telefone" name="telefone" class="w-full border border-gray-300 rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-blue-500">
             </div>
-
             <div>
-                <label for="cpf" class="block font-medium">CPF</label>
-                <input type="text" id="cpf" name="cpf" class="w-full border border-gray-300 rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                <label for="endereco" class="block font-medium">Endereço</label>
+                <input type="text" id="endereco" name="endereco" class="w-full border border-gray-300 rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-blue-500">
             </div>
-        </div>
-
-        <div>
-            <label for="endereco" class="block font-medium">Endereço</label>
-            <input type="text" id="endereco" name="endereco" class="w-full border border-gray-300 rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-blue-500">
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
